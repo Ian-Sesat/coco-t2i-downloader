@@ -36,4 +36,4 @@ The captions.json file has two fields:
 }
 ```
 
-All 123,287 images form the retrieval gallery and all 616,435 captions serve as text queries for Recall@1 and Recall@5 evaluation.
+
