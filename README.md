@@ -8,10 +8,6 @@ MS-COCO 2017 contains 123,287 images (118,287 train + 5,000 val) each annotated 
 
 ## Usage
 
-```bash
-python download_coco.py
-```
-
 No additional dependencies required beyond the Python standard library. Requires approximately 19GB of disk space. Zip files are automatically deleted after extraction.
 
 ## Output
